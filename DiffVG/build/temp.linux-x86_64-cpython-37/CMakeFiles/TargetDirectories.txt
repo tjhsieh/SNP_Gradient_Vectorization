@@ -1,0 +1,5 @@
+/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37/CMakeFiles/diffvg.dir
+/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37/CMakeFiles/edit_cache.dir
+/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37/CMakeFiles/rebuild_cache.dir
+/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37/pybind11/CMakeFiles/edit_cache.dir
+/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37/pybind11/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<svg
+   height="512"
+   version="1.1"
+   width="512"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient
+       id="linearGradient874">
+      <stop
+         style="stop-color:#00eb00;stop-opacity:1;"
+         offset="0"
+         id="stop870" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop872" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient874"
+       id="linearGradient974"
+       gradientUnits="userSpaceOnUse"
+       x1="51.677937"
+       y1="278.86371"
+       x2="362.5546"
+       y2="490.42358" />
+  </defs>
+  <g>
+    <path
+       d="M 343.4670104980469 231.5615692138672 C 398.3246765136719 234.76405334472656 423.6444396972656 353.280517578125 305.699951171875 498.2770690917969 C -8.351390838623047 493.3439025878906 -41.30614471435547 422.3334655761719 -31.164913177490234 375.43408203125 C -45.74101638793945 169.0896453857422 41.209129333496094 301.7271423339844 22.796768188476562 194.1377410888672 C 128.58921813964844 160.86424255371094 138.1219024658203 225.13877868652344 343.4670104980469 231.5615692138672"
+       fill="rgb(89, 117, 67)"
+       opacity="1.0"
+       stroke="rgb(236, 56, 228)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-opacity="0.10158032"
+       stroke-width="0.0"
+       style="fill:url(#linearGradient974)" />
+  </g>
+</svg>

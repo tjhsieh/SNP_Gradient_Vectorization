@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/home/anna/anaconda3/envs/live/include/python3.7m -I/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda-12.0/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/atomic.cpp.o -c /home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/atomic.cpp",
+  "file": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/atomic.cpp"
+},
+{
+  "directory": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/home/anna/anaconda3/envs/live/include/python3.7m -I/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda-12.0/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/color.cpp.o -c /home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/color.cpp",
+  "file": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/color.cpp"
+},
+{
+  "directory": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/home/anna/anaconda3/envs/live/include/python3.7m -I/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda-12.0/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/parallel.cpp.o -c /home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/parallel.cpp",
+  "file": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/parallel.cpp"
+},
+{
+  "directory": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/build/temp.linux-x86_64-cpython-37",
+  "command": "/usr/bin/c++ -DCOMPILE_WITH_CUDA -Ddiffvg_EXPORTS -I/home/anna/anaconda3/envs/live/include/python3.7m -I/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/pybind11/include -I/usr/local/cuda-12.0/include -DVERSION_INFO=\\\"0.0.1\\\" -O3  -fPIC -Wall -g -O3 -fvisibility=hidden -Wno-unknown-pragmas -std=gnu++11 -o CMakeFiles/diffvg.dir/shape.cpp.o -c /home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/shape.cpp",
+  "file": "/home/anna/LIVE-Layerwise-Image-Vectorization/DiffVG/shape.cpp"
+}
+]
