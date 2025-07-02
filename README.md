@@ -45,7 +45,7 @@ The implementation of the PNR in our code is partially adapted from the project:
 <code>
 @article{hsieh2025,
     title={Enhanced Gradient Vectorization for Non-Photorealistic Rendering via Two-Stage K-Means Clustering},
-    author={Tung-Ju Hsieh1 and Jia-Shuan Lin},
+    author={Tung-Ju Hsieh and Jia-Shuan Lin},
     journal = {The Visual Computer},
     year={2025},
     volume = {109},
