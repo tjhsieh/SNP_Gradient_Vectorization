@@ -20,7 +20,10 @@ The implementation of the PNR in our code is partially adapted from the project:
 <h3>To produce our results</h3>
 
 <p>
-	Use Jupyter Notebook environment to open SNP/demo.jpynb
+Use Jupyter Notebook environment to open SNP/demo.jpynb
+Use Jupyter Notebook environment to open LIVE/demo.jpynb
+
+ demo.ipynb
 </p>
 
 <pre>
