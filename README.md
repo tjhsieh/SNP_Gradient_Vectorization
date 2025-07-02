@@ -18,14 +18,10 @@ The implementation of the PNR in our code is partially adapted from the project:
 
 
 <h3>To produce our results</h3>
-
-<p>
-Use Jupyter Notebook environment to open SNP/demo.jpynb
-Use Jupyter Notebook environment to open LIVE_Gradient_Vectorization/demo.jpynb
-
-
- demo.ipynb
-</p>
+<ul>
+<li>Use Jupyter Notebook environment to open SNP/demo.jpynb</li>
+<li>Use Jupyter Notebook environment to open LIVE_Gradient_Vectorization/demo.jpynb</li>
+</ul>
 
 <pre>
     git clone https://github.com/tjhsieh/SNP_Gradient_Vectorization.git  
