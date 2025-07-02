@@ -18,8 +18,13 @@ The implementation of the PNR in our code is partially adapted from the project:
 
 
 <h3>To produce our results</h3>
+
+<p>
+	Use Jupyter Notebook environment to open SNP/demo.jpynb
+</p>
+
 <pre>
-    git clone https://github.com/tjhsieh/SNP_Gradient_Vectorization.git
+    git clone https://github.com/tjhsieh/SNP_Gradient_Vectorization.git  
     cd LIVE
     python main.py --config config/all.yaml --experiment experiment_8x1 --signature demo1 --target data/demo1.png
 </pre>
