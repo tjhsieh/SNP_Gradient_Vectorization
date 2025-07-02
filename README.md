@@ -21,7 +21,8 @@ The implementation of the PNR in our code is partially adapted from the project:
 
 <p>
 Use Jupyter Notebook environment to open SNP/demo.jpynb
-Use Jupyter Notebook environment to open LIVE/demo.jpynb
+Use Jupyter Notebook environment to open LIVE_Gradient_Vectorization/demo.jpynb
+
 
  demo.ipynb
 </p>
